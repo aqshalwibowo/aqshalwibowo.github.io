@@ -1,0 +1,24 @@
+.navbar {
+  background-color: black;
+  -ms-flex-align: end;
+}
+.gambar {
+  height: 300px;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.tittle {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: larger;
+  align-content: center;
+}
+.card {
+  padding: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.footer {
+  padding: 20px;
+  background-color: black;
+}

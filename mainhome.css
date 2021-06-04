@@ -1,0 +1,25 @@
+.navbar {
+  background-color: black;
+  -ms-flex-align: end;
+}
+.carousell {
+  width: auto;
+  height: 400px;
+}
+.tittle {
+  padding-top: 150px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: larger;
+  background-color: bisque;
+  align-content: center;
+}
+.gridbrand {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  width: auto;
+  height: 450px;
+}
+.footer {
+  padding: 20px;
+  background-color: black;
+}
